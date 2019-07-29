@@ -1,0 +1,38 @@
+.imageone{
+height: 300px;
+width: 400px;
+margin: 10px;
+}
+.container {
+display:flex;
+flex-direction: row;
+border: 10px;
+flex-wrap: wrap;
+padding: 2px;
+margin: 20px;
+justify-content: center;
+}
+.imagesecond {
+height: 300px;
+width: 400px ;
+margin: 10px;
+
+}
+.imagethird {
+height: 300px;
+width: 400px;
+margin: 10px;
+
+}
+h1 {
+text-align: center;
+border: 10px solid pink;
+background-color: pink;
+color: white;
+}
+body {
+  background: #BCD6E8;
+}
+*{
+  align: center;
+}
